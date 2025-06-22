@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: c71179736ab9a17479891760a3594aaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8944363625501103313
+    second: tombstone-Sheet_0
+  - first:
+      213: 4275645702028402602
+    second: tombstone-Sheet_1
+  - first:
+      213: -883007566926001047
+    second: tombstone-Sheet_2
+  - first:
+      213: 5481357763862755032
+    second: tombstone-Sheet_3
+  - first:
+      213: 846836219217779221
+    second: tombstone-Sheet_4
+  - first:
+      213: 5748271173920309080
+    second: tombstone-Sheet_5
+  - first:
+      213: 371077972225418553
+    second: tombstone-Sheet_6
+  - first:
+      213: 1678441753276464105
+    second: tombstone-Sheet_7
+  - first:
+      213: -5437623864709557619
+    second: tombstone-Sheet_8
+  - first:
+      213: 2267765075328179478
+    second: tombstone-Sheet_9
+  - first:
+      213: -731454272278327345
+    second: tombstone-Sheet_10
+  - first:
+      213: 2169819920340114296
+    second: tombstone-Sheet_11
+  - first:
+      213: -742372694987612547
+    second: tombstone-Sheet_12
+  - first:
+      213: -6407510802411233802
+    second: tombstone-Sheet_13
+  - first:
+      213: -1132821646511294761
+    second: tombstone-Sheet_14
+  - first:
+      213: -6726339261891152848
+    second: tombstone-Sheet_15
+  - first:
+      213: -6300499567100885843
+    second: tombstone-Sheet_16
+  - first:
+      213: 6621891731856414991
+    second: tombstone-Sheet_17
+  - first:
+      213: -9107243791870522002
+    second: tombstone-Sheet_18
+  - first:
+      213: 7883334753286577759
+    second: tombstone-Sheet_19
+  - first:
+      213: -8641246574331076442
+    second: tombstone-Sheet_20
+  - first:
+      213: -4593255878036395688
+    second: tombstone-Sheet_21
+  - first:
+      213: -2664086576194275322
+    second: tombstone-Sheet_22
+  - first:
+      213: -5788711834665762319
+    second: tombstone-Sheet_23
+  - first:
+      213: -240165201285874774
+    second: tombstone-Sheet_24
+  - first:
+      213: -382081819321211649
+    second: tombstone-Sheet_25
+  - first:
+      213: 3548771287867974030
+    second: tombstone-Sheet_26
+  - first:
+      213: 7650700735627687513
+    second: tombstone-Sheet_27
+  - first:
+      213: 5336374010387087112
+    second: tombstone-Sheet_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tombstone-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72aad31589691a43b6eb0337a0434d7
+      internalID: 1337005503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tombstone-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedcf7508652787448ac5751071666db
+      internalID: -603010294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tombstone-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63111c3ba8c12dd4b9c517b74faf9a22
+      internalID: 466389831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tombstone-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc77b3e4a3fc9f448bffbfce460f532a
+      internalID: 2114321914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tombstone-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d02d59bbdb3274782440ab1caf4730
+      internalID: -1567382216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: efeb1d9244c7f6248898b2339208751b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tombstone-Sheet_0: 1337005503
+      tombstone-Sheet_1: -603010294
+      tombstone-Sheet_2: 466389831
+      tombstone-Sheet_3: 2114321914
+      tombstone-Sheet_4: -1567382216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

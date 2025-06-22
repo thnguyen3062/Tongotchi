@@ -1,0 +1,23 @@
+shower.png
+size:256,64
+filter:Linear,Linear
+pma:true
+Layer 2
+bounds:182,34,26,65
+offsets:1,1,28,67
+rotate:90
+Layer 3
+bounds:2,2,93,58
+offsets:1,1,95,60
+Layer 5
+bounds:97,10,83,50
+offsets:1,1,85,52
+water1
+bounds:97,7,1,1
+offsets:1,1,3,3
+water2
+bounds:97,7,1,1
+offsets:1,1,3,3
+water3
+bounds:182,31,1,1
+offsets:1,1,3,3

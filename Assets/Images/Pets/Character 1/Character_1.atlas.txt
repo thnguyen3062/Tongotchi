@@ -1,0 +1,145 @@
+Character_1.png
+size:256,64
+filter:Linear,Linear
+pma:true
+Character 1/Stage 0_body
+bounds:94,31,34,31
+offsets:1,1,36,33
+Character 1/Stage 0_body_dirty
+bounds:130,31,34,31
+offsets:1,1,36,33
+Character 1/Stage 0_egg
+bounds:79,11,38,18
+offsets:1,1,40,20
+Character 1/Stage 0_eyes
+bounds:166,31,10,3
+offsets:1,1,12,5
+Character 1/Stage 1_body
+bounds:100,4,12,5
+offsets:1,1,14,7
+Character 1/Stage 2_body
+bounds:100,4,12,5
+offsets:1,1,14,7
+Character 1/Stage 1_body 2
+bounds:184,14,12,8
+Character 1/Stage 1_body up
+bounds:119,2,18,8
+offsets:1,1,20,10
+Character 1/Stage 2_body up
+bounds:119,2,18,8
+offsets:1,1,20,10
+Character 1/Stage 1_eyes
+bounds:243,46,16,10
+offsets:1,1,18,12
+rotate:90
+Character 1/Stage 2_eyes
+bounds:243,46,16,10
+offsets:1,1,18,12
+rotate:90
+Character 1/Stage 1_flower
+bounds:165,13,17,16
+offsets:1,1,19,18
+ast0
+bounds:165,13,17,16
+offsets:1,1,19,18
+Character 1/Stage 1_head
+bounds:43,4,34,25
+offsets:1,1,36,29
+Character 1/Stage 1_head_dirty
+bounds:207,37,34,25
+offsets:1,1,36,29
+Character 1/Stage 1_leg_left
+bounds:226,31,4,8
+offsets:1,1,6,10
+rotate:90
+Character 1/Stage 1_leg_right
+bounds:202,16,4,8
+offsets:1,1,6,10
+rotate:90
+Character 1/Stage 2_body 2
+bounds:243,32,12,8
+rotate:90
+Character 1/Stage 2_flower
+bounds:142,13,21,16
+offsets:1,1,23,18
+Character 1/Stage 2_head
+bounds:2,3,39,26
+offsets:1,1,41,29
+Character 1/Stage 2_head_dirty
+bounds:166,36,39,26
+offsets:1,1,41,29
+Character 1/Stage 2_leg_left
+bounds:212,20,4,8
+offsets:1,1,6,10
+Character 1/Stage 2_leg_right
+bounds:218,20,4,8
+offsets:1,1,6,10
+Character 1/Stage 3_body
+bounds:212,30,12,5
+offsets:1,1,14,7
+Character 1/Stage 3_body 2
+bounds:202,22,12,8
+rotate:90
+Character 1/Stage 3_body Up
+bounds:139,2,18,8
+offsets:1,1,20,10
+Character 1/Stage 3_eyes
+bounds:184,24,16,10
+offsets:1,1,18,12
+Character 1/Stage 3_flower
+bounds:119,12,21,17
+offsets:1,1,23,19
+Character 1/Stage 3_head
+bounds:2,31,44,31
+offsets:1,1,46,33
+Character 1/Stage 3_head_dirty
+bounds:48,31,44,31
+offsets:1,1,46,33
+Character 1/Stage 3_item
+bounds:159,2,12,9
+offsets:1,1,14,11
+Character 1/Stage 3_leg_left
+bounds:212,14,4,8
+offsets:1,1,6,10
+rotate:90
+Character 1/Stage 3_leg_right
+bounds:202,10,4,8
+offsets:1,1,6,10
+rotate:90
+Character 2/Stage 0_eye_egg 2
+bounds:253,35,9,1
+offsets:1,1,11,3
+rotate:90
+eye_die
+bounds:79,4,19,5
+offsets:1,1,21,7
+m_bored
+bounds:185,2,10,5
+offsets:1,1,12,7
+rotate:90
+m_defet
+bounds:236,29,6,5
+offsets:1,1,8,7
+rotate:90
+m_excited
+bounds:173,2,9,6
+offsets:1,1,11,8
+rotate:90
+m_happy
+bounds:192,2,10,5
+offsets:1,1,12,7
+rotate:90
+m_hurt
+bounds:199,3,7,5
+offsets:1,1,9,7
+m_normal
+bounds:198,14,8,2
+offsets:1,1,10,4
+rotate:90
+m_sad
+bounds:212,8,8,4
+offsets:1,1,10,6
+m_sick
+bounds:181,2,9,2
+offsets:1,1,11,4
+rotate:90

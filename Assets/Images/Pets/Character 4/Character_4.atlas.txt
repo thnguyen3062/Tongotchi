@@ -1,0 +1,95 @@
+Character_4.png
+size:256,64
+filter:Linear,Linear
+pma:true
+Character 4/Stage 0_body
+bounds:80,36,32,26
+Character 4/Stage 0_body_dirty
+bounds:80,2,32,26
+rotate:90
+Character 4/Stage 0_egg
+bounds:2,7,38,18
+Character 4/Stage 0_eyes
+bounds:16,2,9,3
+offsets:1,1,11,5
+Character 4/Stage 1_body
+bounds:235,55,8,7
+offsets:5,0,18,7
+Character 4/Stage 1_body up
+bounds:136,10,24,8
+offsets:1,1,26,10
+rotate:90
+Character 4/Stage 1_eyes
+bounds:136,2,16,6
+offsets:1,1,18,8
+Character 4/Stage 1_head
+bounds:108,2,32,26
+rotate:90
+Character 4/Stage 1_head_dirty
+bounds:114,36,32,26
+Character 4/Stage 2_body up
+bounds:209,54,24,8
+offsets:1,1,26,10
+Character 4/Stage 2_hat
+bounds:156,18,16,13
+rotate:90
+Character 4/Stage 2_head
+bounds:2,27,37,35
+Character 4/Stage 2_head_dirty
+bounds:41,27,37,35
+Character 4/Stage 3_head_dirty
+bounds:41,27,37,35
+Character 4/Stage 3_body
+bounds:68,13,12,7
+offsets:3,1,18,8
+rotate:90
+Character 4/Stage 3_body up
+bounds:146,10,24,8
+offsets:1,1,26,10
+rotate:90
+Character 4/Stage 3_hat
+bounds:185,46,16,22
+rotate:90
+Character 4/Stage 3_spoon
+bounds:148,43,19,35
+offsets:1,1,21,37
+rotate:90
+Character 5/Stage 0_eye_egg 2
+bounds:77,16,9,1
+offsets:1,1,11,3
+rotate:90
+ast_1
+bounds:42,8,24,17
+offsets:1,1,26,19
+eye_die
+bounds:148,36,19,5
+offsets:1,1,21,7
+m_bored
+bounds:42,2,10,4
+offsets:1,1,12,6
+m_defet
+bounds:154,2,6,5
+offsets:1,1,8,7
+rotate:90
+m_excited
+bounds:169,36,9,5
+offsets:1,1,11,7
+m_happy
+bounds:27,2,8,3
+offsets:1,1,10,5
+m_hurt
+bounds:209,47,7,5
+offsets:1,1,9,7
+m_normal
+bounds:171,26,8,2
+offsets:1,1,10,4
+rotate:90
+m_sad
+bounds:54,3,8,3
+offsets:1,1,10,5
+m_sick
+bounds:245,60,9,2
+offsets:1,1,11,4
+shade
+bounds:2,2,12,3
+offsets:1,1,14,5

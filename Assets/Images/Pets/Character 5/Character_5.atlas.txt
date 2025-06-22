@@ -1,0 +1,104 @@
+Character_5.png
+size:512,64
+filter:Linear,Linear
+pma:true
+Character 5/Stage 0_body
+bounds:151,36,34,26
+offsets:1,1,36,28
+Character 5/Stage 1_head
+bounds:151,36,34,26
+offsets:1,1,36,28
+Character 5/Stage 0_body_dirty
+bounds:187,36,34,26
+offsets:1,1,36,28
+Character 5/Stage 1_head_dirty
+bounds:187,36,34,26
+offsets:1,1,36,28
+Character 5/Stage 0_egg
+bounds:367,44,38,18
+offsets:1,1,40,20
+Character 5/Stage 0_eye_egg
+bounds:14,3,9,3
+offsets:1,1,11,5
+Character 5/Stage 0_eye_egg 2
+bounds:455,45,9,1
+offsets:1,1,11,3
+Character 5/Stage 0_hat_egg
+bounds:488,48,13,14
+offsets:1,1,15,16
+Character 5/Stage 1_body
+bounds:58,2,8,8
+Character 5/Stage 1_body up
+bounds:433,45,20,6
+Character 5/Stage 1_eyes
+bounds:503,48,14,7
+offsets:1,1,16,9
+rotate:90
+Character 5/Stage 1_hat
+bounds:58,12,43,23
+offsets:1,1,45,25
+Character 5/Stage 2_body
+bounds:68,3,14,7
+Character 5/Stage 2_body up
+bounds:367,36,20,6
+Character 5/Stage 2_hat
+bounds:106,39,43,23
+offsets:1,1,45,25
+Character 5/Stage 2_head
+bounds:223,36,34,26
+Character 5/Stage 2_head_dirty
+bounds:259,36,34,26
+Character 5/Stage 2_wood broom
+bounds:455,48,31,14
+offsets:1,1,33,16
+Character 5/Stage 3_broom
+bounds:407,53,46,9
+offsets:1,1,48,11
+Character 5/Stage 3_eyes awaken
+bounds:84,3,14,7
+offsets:1,1,16,9
+Character 5/Stage 3_hat 3
+bounds:58,37,46,25
+offsets:1,1,48,27
+Character 5/Stage 3_head
+bounds:295,36,34,26
+Character 5/Stage 3_head_dirty
+bounds:331,36,34,26
+Character 5/Stage 3_magic circle
+bounds:2,8,54,54
+offsets:1,1,56,56
+ast_1
+bounds:407,34,24,17
+offsets:1,1,26,19
+eye_die
+bounds:433,38,19,5
+offsets:1,1,21,7
+m_bored
+bounds:2,2,10,4
+offsets:1,1,12,6
+m_defet
+bounds:454,38,6,5
+offsets:1,1,8,7
+m_excited
+bounds:433,31,9,5
+offsets:1,1,11,7
+m_happy
+bounds:100,2,8,3
+offsets:1,1,10,5
+rotate:90
+m_hurt
+bounds:444,31,7,5
+offsets:1,1,9,7
+m_normal
+bounds:403,34,8,2
+offsets:1,1,10,4
+rotate:90
+m_sad
+bounds:25,3,8,3
+offsets:1,1,10,5
+m_sick
+bounds:35,4,9,2
+offsets:1,1,11,4
+shade
+bounds:389,39,12,3
+offsets:1,1,14,5

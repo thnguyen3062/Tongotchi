@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c530aef5a536211439da6f47d04f17d6, type: 3}
+  m_Name: MiniGame
+  m_EditorClassIdentifier: 
+  baseMiniGameData:
+    platformMoveSpeed: 0.7
+    trapActiveTime: 0.3
+    trapRotationSpeed: 150
+    enemyMoveSpeed: 8
